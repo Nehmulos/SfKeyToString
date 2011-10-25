@@ -1,0 +1,6 @@
+SfKeyToString is a simple mini-library to map sfml keys to Strings.
+It's published under the WTFPL license, so do WTF you want.
+See the LICENSE file for details.
+
+We recommend you to simply add the source files to your project,
+instead of compiling them as seperate library.
